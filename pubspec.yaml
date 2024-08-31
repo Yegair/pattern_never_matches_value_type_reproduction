@@ -1,0 +1,6 @@
+publish_to: none
+name: pattern_never_matches_value_type_reproduction
+version: 1.0.0
+
+environment:
+  sdk: 3.5.1
